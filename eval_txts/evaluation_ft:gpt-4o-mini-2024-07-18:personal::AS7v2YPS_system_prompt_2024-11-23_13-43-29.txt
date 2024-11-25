@@ -1,0 +1,15 @@
+Processing evaluation_data/1994/11/Nov2194.puz
+Processing evaluation_data/1994/8/Aug0894.puz
+Processing evaluation_data/2006/9/Sep0406.puz
+Processing evaluation_data/2006/4/Apr1006.puz
+Processing evaluation_data/2006/3/Mar1306.puz
+Processing evaluation_data/2019/6/Jun1719.puz
+Processing evaluation_data/2019/1/Jan2819.puz
+Processing evaluation_data/2019/8/Aug1919.puz
+Processing evaluation_data/2019/12/Dec2319.puz
+Processing evaluation_data/2021/1/Jan0421.puz
+Processing evaluation_data/2016/9/Sep1916.puz
+Processing evaluation_data/1997/9/Sep1597.puz
+Processing evaluation_data/1997/3/Mar1797.puz
+Processing evaluation_data/1999/3/Mar0899.puz
+Processing evaluation_data/1999/5/May1799.puz

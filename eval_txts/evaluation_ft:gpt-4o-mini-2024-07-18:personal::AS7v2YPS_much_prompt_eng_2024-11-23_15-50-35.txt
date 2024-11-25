@@ -1,0 +1,6 @@
+Processing evaluation_data/1994/11/Nov2194.puz
+Processing evaluation_data/2006/3/Mar1306.puz
+Processing evaluation_data/2019/6/Jun1719.puz
+Processing evaluation_data/2019/8/Aug1919.puz
+Processing evaluation_data/2016/9/Sep1916.puz
+Processing evaluation_data/1997/3/Mar1797.puz
